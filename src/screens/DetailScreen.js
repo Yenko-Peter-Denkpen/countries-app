@@ -1,9 +1,9 @@
 import React from 'react'
 
-function DetailScreen() {
+function DetailedScreen() {
   return (
-    <div>DetailScreen</div>
+    <div>DetailedScreen</div>
   )
 }
 
-export default DetailScreen
+export default DetailedScreen
